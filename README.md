@@ -17,6 +17,9 @@ Here are some ideas to get you started:
     <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=28&lines=Hi👋+I'm+Shambhu+Kumar...;BTech+Student;Open-Source+Enthusiast..;Learning+In+Public..;Empowering+Others;Nice+To+Meet+You+....&center=true"></a></p>
     
 
+
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/___.aryan______) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shambhusah7) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:er.shambhusah@gmail.com)
     
 # 🖥️ Technical Skills: 
 <p align="left">
