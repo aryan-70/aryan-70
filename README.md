@@ -1,3 +1,4 @@
+![logo](https://github.com/aryan-70/aryan-70/blob/main/Black_and_White_Simple_Art_Director_LinkedIn_Banner%5B1%5D.png)
 <!--
 **Shambhu Kumar/Shambhu Kumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
